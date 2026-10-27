@@ -599,3 +599,25 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1 tvg-name="河北4K" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HeBei.png" group-title="4K8K频道",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="港台频道",翡翠台1080p
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+#EXTINF:-1 group-title="港台频道",金翡翠1080p
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门莲花.png" group-title="港台频道" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",澳门莲花480p
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港台频道",凤凰中文移动
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港台频道",凤凰资讯移动
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png" group-title="港台频道",澳视澳门官方
+http://61.244.22.4/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",澳视葡文官方
+https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",澳视卫星官方
+https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",澳视体育官方
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",澳视资讯官方
+https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",澳视综艺官方
+https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
